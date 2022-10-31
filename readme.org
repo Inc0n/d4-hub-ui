@@ -1,0 +1,8 @@
+
+* D4 Hub UI
+
+This was a web app (front end + backend) for a Group Design Project, D4 for Soton.
+
+Only code is hosted here, as most of that is of my own work.
+
+You may wish to see some screenshots in =./screenshots/=
